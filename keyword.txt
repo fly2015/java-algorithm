@@ -1,0 +1,70 @@
+Data Structure
+	Interface 
+		- set of operations that a data structure supports
+		- type of parameters they can accept
+		- return type
+	
+	Implementation
+		- the internal representation of a data structure
+		- the definition of the algorithms used in the operations of the data structure.
+		
+	
+	Characteristics of a Data Structure
+		- Correctness 
+		- Time Complexity
+		- Space Complexity
+		
+	
+	Need for Data Structure
+		- Data Search
+		- Processor speed
+		- Multiple requests
+	
+	Execution Time Cases
+		Worst Case
+		Average Case 
+		Best Case
+		
+Algorithms Basics
+	Search/Sort/Insert/Update/Delete
+		
+	Characteristics of an Algorithm
+		Unambiguous
+		Input
+		Output
+		Finiteness − Algorithms must terminate after a finite number of steps.
+		Feasibility
+		Independent 
+	
+	How to Write an Algorithm?
+		Problem
+		Solution (there can be more than 1 solution)
+		Steps to resolve (optional)
+		
+	Algorithm Analysis
+		Efficiency of an algorithm can be analyzed at two different stages,
+		- A Priori Analysis − This is a theoretical analysis of an algorithm
+		- A Posterior Analysis 	- practical implementation
+				 
+	Algorithm Complexity
+		Time Factor
+		Space Factor
+		
+		Space Complexity
+		Time Complexity
+
+Asymptotic Analysis
+
+Greedy Algorithms
+	- optimum solution
+	* Counting Coins
+	count to a desired value by choosing the least possible coins
+	
+divide-and-conquer
+	Divide/Break
+	Merge/Combine
+
+Dynamic Programming 
+	- be divided into smaller overlapping sub-problem
+	- An optimum solution can be achieved by using using an optimum solution of smaller sub-problems
+	- use Memoization.	

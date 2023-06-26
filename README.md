@@ -1,2 +1,2 @@
-# algorithm-in-action
+# java-algorithm
 Practices algorithm with Java
